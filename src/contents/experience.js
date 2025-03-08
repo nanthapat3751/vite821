@@ -6,11 +6,11 @@ export const data = [
     {
         date: "2020-2021",
         title: "Fullstack · Sport Analysis System",
-        link: "https://nanthapat3751.github.io/vite820/",
+        link: "https://nanthapat3751.github.io/vite821/",
         materials: [
-            { type: faGithub, link: "https://nanthapat3751.github.io/vite820/" },
-            { type: faYoutube, link: "https://nanthapat3751.github.io/vite820/" },
-            { type: faMedium, link: "https://nanthapat3751.github.io/vite820/" },
+            { type: faGithub, link: "https://nanthapat3751.github.io/vite821/" },
+            { type: faYoutube, link: "https://nanthapat3751.github.io/vite821/" },
+            { type: faMedium, link: "https://nanthapat3751.github.io/vite821/" },
         ],
         descriptions: [
             "Designing and developing a sports data analysis system that scrapes data from various sports websites, processes it, and presents different profit-making possibilities in real-time for customers.",
@@ -25,11 +25,11 @@ export const data = [
     {
         date: "2020-2021",
         title: "Backend Dev · Sport Analysis System",
-        link: "https://nanthapat3751.github.io/vite820/",
+        link: "https://nanthapat3751.github.io/vite821/",
         material: [
-            { type: faGithub, link: "https://nanthapat3751.github.io/vite820/" },
-            { type: faYoutube, link: "https://nanthapat3751.github.io/vite820/" },
-            { type: faMedium, link: "https://nanthapat3751.github.io/vite820/" },
+            { type: faGithub, link: "https://nanthapat3751.github.io/vite821/" },
+            { type: faYoutube, link: "https://nanthapat3751.github.io/vite821/" },
+            { type: faMedium, link: "https://nanthapat3751.github.io/vite821/" },
         ],
         descriptions: [
             "Designing and developing a sports data analysis system that scrapes data from various sports websites, processes it, and presents different profit-making possibilities in real-time for customers.",
